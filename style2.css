@@ -1,0 +1,131 @@
+.chef-section {
+    background-color: #fdf7f0;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+}
+
+.chef-text {
+    color: #2b2b2b;
+}
+
+.chef-text h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.chef-text p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.btn-read-more {
+    background-color: #5f452e;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+body {
+    background-color: #ebe3ce;
+}
+
+h4 {
+    color: #f3a240;
+}
+
+.testimonial-card {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+.Steve {
+    margin: 0 auto;
+}
+
+.testimonial-card img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.testimonial-content {
+    flex: 1;
+}
+
+.testimonial-content h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.testimonial-content p {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.testimonial-rating {
+    color: #ff6f3c;
+}
+
+.testimonial-date {
+    font-size: 14px;
+    color: #bbb;
+}
+
+#send {
+    background-color: #5f452e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Text{
+    text-align: center;
+}
+
+#comment {
+    border-radius: 20px;
+    background-color: rgba(209, 194, 165, 255);
+}
+
+#mail {
+    background-color: rgba(209, 194, 165, 255);
+}
+
+#name {
+    background-color: rgba(209, 194, 165, 255);
+}
+
+#footer {
+    background-color: #f99d30;
+}
+
+.What {
+    color: black;
+}
+
+.About {
+    color: black;
+}
+
+#about {
+    color: #fff;
+}
+
+#what {
+    color: #fff;
+}
+
+#Sign-up {
+    color: #fff;
+}
